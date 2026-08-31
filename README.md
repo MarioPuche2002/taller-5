@@ -58,7 +58,7 @@ llegar siquiera a correr los tests:
 
 Quité el import sin usar y el pipeline volvió a verde:
 
-![Ruff corregido](evidencias/Fallo ruff corregido.png)
+![Ruff corregido](evidencias\Fallo_ruff_corregido.png)
 
 ## La defensa
 
