@@ -1,5 +1,4 @@
 """Cálculo de reposición de inventario para una cadena de tiendas."""
-import os
 
 def dias_de_inventario(stock_actual: int, ventas_diarias: float) -> float:
     """Cuántos días durará el stock al ritmo de ventas actual.
